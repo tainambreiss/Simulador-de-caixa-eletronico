@@ -1,0 +1,24 @@
+body {
+    background-color: #f3f4f6;
+    font-family: 'Arial', sans-serif;
+}
+
+.card {
+    border-radius: 10px;
+    border: none;
+}
+
+.card-header {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#result {
+    display: none; /* Oculta o resultado por padrão */
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
